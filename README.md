@@ -2,4 +2,4 @@
 
 # crm_app
 
-the modules which make up the crm app
+the module which makes up the crm app
